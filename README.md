@@ -10,7 +10,7 @@ This repository contains data collected during a Virtual Reality (VR) stress int
 - **EEG (Electroencephalography)**: Measures electrical activity in the brain, recorded from behind the ear.
 
 ## Ethical Compliance
-This study and data collection were approved by Hanyang University's Institutional Bioethics Committee (IRB: HYUIRB-202201-016). According to the ethical guidelines, the data can be shared for up to three years following the conclusion of the study.
+**This study and data collection were approved by Hanyang University's Institutional Bioethics Committee (IRB: HYUIRB-202201-016). According to the ethical guidelines, the data can be shared for up to three years following the conclusion of the study.**
 
 ## Usage Terms
 By using this dataset, you agree to the following terms:
